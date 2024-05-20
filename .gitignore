@@ -160,6 +160,7 @@ cython_debug/
 
 # database location
 data/db/
+datadb/
 
 # Pytest solution
 backend/test/solution
