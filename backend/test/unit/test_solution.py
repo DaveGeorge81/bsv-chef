@@ -9,4 +9,4 @@ def test():
     sut = RecipeController(controller)
 
     recipies = sut.load_recipes()
-    assert len(recipies) == 2
+    assert len(recipies) == 3
